@@ -1,6 +1,7 @@
 # 👨‍💻Enrico Bertolacini
 
 **`Desenvolvedor Back-End`**
+
 Me chamo Enrico Bertolacini, tenho 18 anos e sou estudante de Engenharia de Software na FIAP. Atualmente, moro em São Paulo, capital.
 Sou desenvolvedor Python iniciante, com grande interesse pela área de tecnologia e em constante busca por aprendizado e evolução profissional.
 
