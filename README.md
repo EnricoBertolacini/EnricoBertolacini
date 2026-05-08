@@ -1,63 +1,79 @@
-# 👨‍💻Enrico Bertolacini
+<h1 align="center">👨‍💻 Enrico Bertolacini</h1>
 
-**`Desenvolvedor Back-End`**
-Me chamo Enrico Bertolacini, tenho 18 anos e sou estudante de Engenharia de Software na FIAP. Atualmente, moro em São Paulo, capital.
-Sou desenvolvedor Python iniciante, com grande interesse pela área de tecnologia e em constante busca por aprendizado e evolução profissional.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Enrico+Bertolacini;Desenvolvedor+Back-End;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia+e+Programação" />
+</p>
 
+---
 
+## 🚀 Sobre Mim
 
-### 🤖 Linguagens e Tecnologias
+💻 Desenvolvedor Back-End em aprendizado constante  
+🎓 Estudante de Engenharia de Software  
+📍 São Paulo - SP  
+🐍 Focado em Python e desenvolvimento web  
+📚 Atualmente estudando lógica, programação e projetos práticos  
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🛠️ Tecnologias e Ferramentas
 
-<br/>
-<br/>
+<div align="center">
 
-### 📊 Estatísticas
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EnricoBertolacini&show_icons=true&theme=radical&locale=pt-br"
-/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoBertolacini&theme=radical&include_all_commits=true&layout=compact&custom_title=Tecnologias"
-/>
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoBertolacini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoBertolacini&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+---
+
+## 📌 Objetivos
+
+✅ Evoluir como desenvolvedor Back-End  
+✅ Conseguir estágio na área de tecnologia  
+✅ Aprender frameworks e banco de dados  
+✅ Construir projetos cada vez mais completos  
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://linkedin.com/in/SEU_LINK](https://www.linkedin.com/in/enrico-bertolacini-9567b83a6/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:enricobertolacini@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
