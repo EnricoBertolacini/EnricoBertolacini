@@ -11,8 +11,8 @@
 💻 Desenvolvedor Back-End em aprendizado constante  
 🎓 Estudante de Engenharia de Software  
 📍 São Paulo - SP  
-🐍 Focado em Python e desenvolvimento web  
-📚 Atualmente estudando lógica, programação e projetos práticos  
+🐍 Focado em Python e desenvolvimento back-end  
+📚 Atualmente estudando python 
 
 ---
 
