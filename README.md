@@ -30,17 +30,7 @@
 </div>
 
 ---
----
 
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
 
 ## 📌 Objetivos
 
