@@ -30,17 +30,6 @@
 </div>
 
 ---
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnricoBertolacini&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnricoBertolacini&layout=compact&theme=tokyonight"/>
-
-</div>
-
 ---
 
 ## 🔥 Sequência de Contribuições
