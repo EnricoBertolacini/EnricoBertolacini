@@ -34,8 +34,7 @@
 
 ## 📌 Objetivos
 
-✅ Evoluir como desenvolvedor Back-End  
-✅ Conseguir estágio na área de tecnologia  
+✅ Evoluir como desenvolvedor Back-End   
 ✅ Aprender frameworks e banco de dados  
 ✅ Construir projetos cada vez mais completos  
 
